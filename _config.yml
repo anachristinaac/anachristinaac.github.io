@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Software Developer from Chicago.
-url:                 https://jamigibbs.com
+title:               Ana Campos
+tagline:             PGR researcher at University of Manchester.
+url:                 https://anachristinaac.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,18 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
-  url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  name:              Ana Campos
+  url:               https://anachristinaac.github.io/
+  email:             ana.campos@postgrad.manchester.ac.uk
 
 # Custom vars
 version:             2.0.1
 github:
   repo:              https://github.com/jamigibbs/portfolio
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+github:              anachristinaac
+orcid_id:	     0000-0002-7800-5640
+lattes_id:	     1120877512147802
 
 # Gems
 plugins:
