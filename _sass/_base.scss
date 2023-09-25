@@ -87,3 +87,10 @@ ul {
     text-align: left;
   }
 }
+
+.personal-icons{
+    background: $gray-1;
+}
+.personal-icons:hover{
+    background: $link-color;
+}
